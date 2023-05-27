@@ -1,4 +1,4 @@
-package main
+package go_hid_to_ascii
 
 func Convert(id string) string {
 	charMap := map[string]string{
